@@ -1,0 +1,14 @@
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\bin\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.exe
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\bin\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.deps.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\bin\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\bin\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\bin\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\obj\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\obj\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\obj\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\obj\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\obj\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\obj\Debug\net9.0\refint\19-Convert_To_Switch_Statement_Challenge.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\obj\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\obj\Debug\net9.0\19-Convert_To_Switch_Statement_Challenge.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\19-Convert_To_Switch_Statement_Challenge\obj\Debug\net9.0\ref\19-Convert_To_Switch_Statement_Challenge.dll
